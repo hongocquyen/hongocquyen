@@ -4,7 +4,7 @@
 - I’m currently learning everthing :<
 - Ask me about anything: 
 
-## Fun Fact: I love cat
+## I love cat
 
 ### Connect with me:
 
