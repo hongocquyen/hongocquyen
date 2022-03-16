@@ -1,7 +1,7 @@
 ### Hi there, I’m Quyen
 - I’m interested in chess, code and video games
 - I'm currently studying at HCMUS
-- I’m currently learning C++, Python but still very new for me
+- I’m currently learning everthing :<
 - Ask me about anything: 
 
 ### Connect with me:
