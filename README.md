@@ -2,7 +2,6 @@
 - I’m interested in chess, code and video games
 - I'm studying at HCMUS
 - I’m currently learning everthing :<
-- Ask me about anything: 
 
 ## I love cat
 
