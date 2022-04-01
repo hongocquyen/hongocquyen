@@ -1,7 +1,7 @@
 # Hi there, I’m Quyen - aka shnriscat
 - I’m interested in chess, code and video games
 - I'm studying at HCMUS
-- I’m currently learning everthing :<
+- I’m currently learning everything :<
 
 ## I love cat
 
