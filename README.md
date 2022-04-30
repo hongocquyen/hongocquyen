@@ -7,11 +7,11 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/shnriscat)
-[![website](./img/twitter-dark.svg)](https://twitter.com/shnriscat)
+[![website](./img/twitter-light.svg)](https://twitter.com/shnriscat#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/shnriscat#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/shnriscat)
-[![website](./img/instagram-dark.svg)](https://instagram.com/shnriscat)
+[![website](./img/instagram-light.svg)](https://instagram.com/shnriscat#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/shnriscat#gh-dark-mode-only)
 
 [twitter]: https://twitter.com/shnriscat
 [instagram]: https://instagram.com/shnriscat
